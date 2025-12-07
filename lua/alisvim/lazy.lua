@@ -20,7 +20,7 @@ require("lazy").setup({
     spec = {
         -- import plugins
         { import = "alisvim/plugins" },
---        { import = "alisvim/plugins/lsp" },
+        { import = "alisvim/plugins/lsp" },
     },
     checker = {
         enabled = true,
